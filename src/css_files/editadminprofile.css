@@ -1,0 +1,58 @@
+.mb-3, .my-3 {
+    margin-bottom: 1rem!important;
+}
+.container, .container-fluid, .container-login {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+}
+.box-title {
+    padding: 25px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    margin-bottom: 20px;
+}
+
+.container-fluid {
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+}
+.mb-4, .my-4 {
+    margin-bottom: 1.5rem!important;
+}
+.profile-edit {
+    margin: 18px;
+}
+.box-title label {
+    color: #000;
+    font-size: 14px;
+}
+label {
+    display: inline-block;
+    margin-bottom: .5rem;
+}
+.box-title input {
+    height: 29px;
+}
+.box-title h3 {
+    font-size: 16px;
+    color: #000;
+    padding-bottom: 12px;
+    font-weight: 600;
+}
+h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    margin-bottom: .5rem;
+    
+    line-height: 1.2;
+}
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 0;
+ 
+}
+#profileCard{
+    box-shadow: 0 .15rem 1.75rem 0 rgba(58,59,69,.15)!important;
+    position: relative;
+    background-color: #fff;
+    background-clip: border-box;
+    border-radius: .375rem;
+}

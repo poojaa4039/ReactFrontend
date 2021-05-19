@@ -1,0 +1,64 @@
+.header1{
+	width: 100%;
+	background-color: #22b1ed;
+   
+    
+    
+  
+}
+.welcome1 h3 ,h5{
+   
+	color: #e3d9d9;
+	 text-align: center;
+	 
+	 letter-spacing: 1px;
+    
+
+}
+.after-header{
+	margin-top: 3%;
+	margin-left: 2%;
+}
+.title-heading1{
+	
+	text-align: center;
+	
+}
+.title-heading1 h2{
+	    color: #2c2a2a;
+    font-weight: 500;
+    padding-bottom: 2px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 28px;
+
+
+}
+.titlle-heading1 p{
+	    margin-top: 0;
+    margin-bottom: 1rem;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.section1{
+    margin-left: 15% !important;
+	
+
+}
+.section1 img{
+
+width: 80%;
+	
+	height: 400px;
+
+}
+
+
+.atag{
+	margin-left: 12px;
+	color:#22b1ed;
+
+}
+.atag:hover{
+	color:red !important;
+}

@@ -1,0 +1,109 @@
+.sidebar {
+    width: 18rem!important;
+    background-color: #111112 !important;
+    overflow: hidden;
+    min-height: 100vh;
+    box-shadow: 0 .15rem 1.75rem 0 rgba(58,59,69,.15)!important;
+    z-index: 0;
+}
+
+#container-wrapper {
+    min-width: 100vw;
+}
+.sidebar .nav-item {
+    position: relative;
+    margin-bottom: -15px;
+}
+#wrapper #content-wrapper {
+    background-color: #fafdfb;
+    width: 100%;
+    overflow-x: hidden;
+}
+.fa .fas {
+    font-family: "Font Awesome 5 Pro";
+    font-weight: 900;
+}
+
+#wrapper #content-wrapper #content {
+    flex: 1 0 auto;
+}
+.sidebar-light .nav-item .nav-link i .i {
+    color: #fecb32;
+    font-size: .85rem;
+    margin-right: .25rem;
+    font-weight: 900;
+    font-family: "Font Awesome 5 Free";
+}
+.sidebar-light .nav-item.active .nav-link i .i {
+    color: #6e707e;
+}
+
+
+
+
+
+ul {
+    list-style-type: none !important;
+}
+
+dl, ol, ul {
+    margin-top: 0;
+    
+}
+.sidebar-light .sidebar-heading {
+    color: #b7b9cc;
+}
+
+.sidebar .sidebar-heading {
+    text-align: left;
+    padding: 0 1rem;
+    font-weight: 800;
+    font-size: .65rem;
+    letter-spacing: .13rem;
+}
+.dropdown .dropdown-menu .dropdown-header, .sidebar .sidebar-heading, .text-uppercase {
+    text-transform: uppercase!important;
+}
+.sidebar .nav-item {
+    position: relative;
+    margin-bottom: -10px;
+}
+
+.sidebar .nav-item .nav-link {
+    width: 14rem;
+    color: #e1e1e1;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 2px;
+    border-radius: 6px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+    display: block;
+   
+    text-align: left;
+    padding: 1rem;
+}
+
+.sidebar .nav-item .nav-link, .topbar .nav-item .nav-link {
+    position: relative;
+}
+.sidebar-light .nav-item.active .nav-link {
+    color: #22b1ed;
+    font-weight: 300;
+}
+a {
+    font-family: 'Rubik', sans-serif !important;
+    text-decoration: none !important;
+    cursor: pointer;
+}
+.sidebar-light .nav-item .nav-link:hover{
+    color:rgb(230, 213, 62);
+}
+html {
+    position: relative;
+    min-height: 100%;}
+
+    .fa{
+        color: #fecb32;
+    }
